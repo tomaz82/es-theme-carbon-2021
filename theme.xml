@@ -103,7 +103,7 @@ originally based on: "simple" by nils bonenberger
 		</image>
 
 		<image name="logo">
-			<path>${themeArtFolder}/systems/${system.theme}.svg</path>
+			<path>${themeArtFolder}/systems/${system.theme}2.svg</path>
 			<maxSize>576 134</maxSize>
 			<pos>480 87</pos>
 			<origin>0.5 0.5</origin>
